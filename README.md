@@ -1,4 +1,9 @@
 # Backend-Test-Mauricio
+
+Utilizar preferiblemnte SO Linux
+Descargar la carpeta enviame.zip
+Descomprimirla  en una carpeta
+
 instalar el paquete de docker
 
 1. obtener la imagen de php y apache : docker pull php:7.4.20-apache
